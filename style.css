@@ -1,0 +1,15 @@
+div{
+  border: 1px solid black;
+}
+#segunda{
+  border-color: red;
+}
+#tercero{
+  border-color: blue;
+}
+img{
+  width: 100%;
+}
+.tamanio{
+  height: 200px;
+}
